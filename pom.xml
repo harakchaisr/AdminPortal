@@ -80,6 +80,7 @@
 			</plugin>
 		</plugins>
 	</build>
+
 	<distributionManagement>
 
 			<repository>
@@ -91,6 +92,7 @@
 				<url>http://domain:port/content/repositories/snapshots</url>
 			</snapshotRepository>
 		</distributionManagement>
+
 
 
 
